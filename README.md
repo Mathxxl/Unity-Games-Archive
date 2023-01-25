@@ -17,5 +17,5 @@ Les dépôts présents sont les suivants (un lien est disponible quand le dépô
 
 ## Liens
 
-La plupart de ces jeux sont disponibles sur mon itch : https://mathxxl.itch.io/
+La plupart de ces jeux sont disponibles sur mon itch : https://mathxxl.itch.io/ <br>
 Ou via mon portfolio pour les démos : https://mathieu-baesen-portfolio.netlify.app/portfolio/games
