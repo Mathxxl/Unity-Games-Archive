@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94a2a8fb5596ec7498cfb73d850c5f12, type: 3}
+  m_Name: BasicEnemy
+  m_EditorClassIdentifier: 
+  life: 10
+  speed: 2
+  attack: 1
+  cooldown: 0
+  drop: {fileID: 4456488303161397924, guid: 469cc67fc6c56e64f95af9967ea01c64, type: 3}
+  knockbackSpeed: 1

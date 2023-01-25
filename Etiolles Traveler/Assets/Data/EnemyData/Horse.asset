@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94a2a8fb5596ec7498cfb73d850c5f12, type: 3}
+  m_Name: Horse
+  m_EditorClassIdentifier: 
+  life: 12
+  speed: 5
+  attack: 0
+  cooldown: 0
+  drop: {fileID: 4156882460448750400, guid: 91e0930dda90c0f4f8c2153d9fa44706, type: 3}
+  knockbackSpeed: 0.5

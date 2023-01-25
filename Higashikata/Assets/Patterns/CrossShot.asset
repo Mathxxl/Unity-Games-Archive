@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82158827c141b5246bda4897c8bbd413, type: 3}
+  m_Name: CrossShot
+  m_EditorClassIdentifier: 
+  angles:
+  - list:
+    - 0
+    - -45
+  - list:
+    - 0
+    - 45
+  speed: 1
+  origins:
+  - 45
+  - -45
+  projectiles:
+  - {fileID: 2522956554614617941, guid: b1e5bd7e8701ac4459d8f45e36677d27, type: 3}
+  shootingTime: 0.1
+  tirEnMemeTemps: 0

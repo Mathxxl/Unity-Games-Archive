@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90a162020656e284a9589eb4c3c7825a, type: 3}
+  m_Name: Boss
+  m_EditorClassIdentifier: 
+  enemySpeed: 40
+  enemyHP: 2000
+  enemyPath: {fileID: 100887492377745892, guid: 7cd63356e4090484da9cf59a0890f791, type: 3}
+  patterns:
+  - {fileID: 11400000, guid: f4856d1183d9ad442adec8cf7d2bcfcf, type: 2}
+  - {fileID: 11400000, guid: 0f2d6fea130511d4a84963c898895a9d, type: 2}
+  - {fileID: 11400000, guid: b8b6c074edc11a64abd8c89c31e98410, type: 2}
+  - {fileID: 11400000, guid: d08be6e2d4e082e4aa899a5d081de1da, type: 2}
+  - {fileID: 11400000, guid: c6cd0eb477bc6e549976349cc286c8fe, type: 2}
+  - {fileID: 11400000, guid: d032640924ffe0a43a0834af95283535, type: 2}
+  - {fileID: 11400000, guid: 99770ad3ffc9b534e8eb16a1af1689cc, type: 2}
+  - {fileID: 11400000, guid: 101215185bd9b6340b074865e79b2cdd, type: 2}
+  - {fileID: 11400000, guid: 90e16cb52e858b443bcc57b2fd77cfae, type: 2}

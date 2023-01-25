@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90a162020656e284a9589eb4c3c7825a, type: 3}
+  m_Name: EnemyDataTest2
+  m_EditorClassIdentifier: 
+  enemySpeed: 20
+  enemyHP: 50
+  enemyPath: {fileID: 397655286782289536, guid: 8491ec4094677874d9a0201a91c8a27f, type: 3}
+  patterns:
+  - {fileID: 11400000, guid: bbd380e0b77b06e428491d989860be2d, type: 2}
+  - {fileID: 11400000, guid: de29364f0be5fc3489e38230624d50c6, type: 2}
+  - {fileID: 11400000, guid: 58c0e89cae886114a85dd5969488f559, type: 2}
